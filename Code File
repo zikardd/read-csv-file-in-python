@@ -1,0 +1,16 @@
+''' Read CSV file Python Program '''
+''' From github to google colab '''
+
+# import the pandas library, it is the important library to read the csv file
+import pandas as pd
+
+# initialitation a variabel that contains the github raw
+url = "https://raw.githubusercontent.com/zikardd/file-data-excel/main/teslagiya.csv"
+
+# initialitation a variabel to read the csv file with the raw
+df = pd.read_csv(url)
+
+# display the readed csv file 
+df
+
+# Thank you, have a nice day :)

@@ -1,6 +1,6 @@
 ''' How to get the raw github '''
 
-1. Open your repository
+1. Open your github repository
 2. Click the file that you will use
 3. Click the "Raw" (beside "Blame")
 4. Copy the URL and paste it to your colab

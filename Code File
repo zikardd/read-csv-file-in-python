@@ -1,6 +1,9 @@
 ''' Read CSV file Python Program '''
 ''' From github to google colab '''
 
+# In this case, i use 'teslagiya.csv' file
+# You can find it in file-data-excel, in my repository
+
 # import the pandas library, it is the important library to read the csv file
 import pandas as pd
 
